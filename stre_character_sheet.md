@@ -53,7 +53,7 @@ Current Health \TextField[name=CurrentHealth, width=5mm]{}
 
 | Money |
 | ----- |
-| \TextField[name=Money, width=2cm]{} |
+| \TextField[name=Money, width=2cm, value=1000]{} |
 
 | Notes |
 | ----- |
