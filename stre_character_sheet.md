@@ -14,12 +14,6 @@ Back Story
 \TextField[name=BackStory4, width=\hsize]{}
 \TextField[name=Backstory5, width=\hsize]{}
 
-## Health
-
-Total Health \TextField[name=TotalHealth, width=5mm]{} = \TextField[name=Vitality, width=5mm, value=2]{Vitality} + \TextField[name=Armor, width=5mm, value=0]{Armor} + 10
-
-Current Health \TextField[name=CurrentHealth, width=5mm]{}
-
 ## Traits and Skills Expertise
 
 | Awareness | Philosophy | Vitality |
@@ -40,6 +34,12 @@ Current Health \TextField[name=CurrentHealth, width=5mm]{}
 | \TextField[name=Expertise10, width=3cm]{} | \TextField[name=Trait10, width=3cm]{} |
 
 Turn Order Roll: `1d12` + \TextField[name=Awareness, width=5mm]{Awareness}
+
+## Health
+
+Total Health \TextField[name=TotalHealth, width=5mm]{} = \TextField[name=Vitality, width=5mm, value=2]{Vitality} + \TextField[name=Armor, width=5mm, value=0]{Armor} + 10
+
+Current Health \TextField[name=CurrentHealth, width=5mm]{}
 
 ## Gear
 
