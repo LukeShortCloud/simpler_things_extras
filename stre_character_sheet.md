@@ -37,7 +37,7 @@ Turn Order Roll: `1d12` + \TextField[name=Awareness, width=5mm]{Awareness}
 
 ## Health
 
-Total Health \TextField[name=TotalHealth, width=5mm]{} = \TextField[name=Vitality, width=5mm, value=2]{Vitality} + \TextField[name=Armor, width=5mm, value=0]{Armor} + 10
+Total Health \TextField[name=TotalHealth, width=5mm]{} = ( \TextField[name=Vitality, width=5mm, value=2]{Vitality} x 10 ) + \TextField[name=Armor, width=5mm, value=0]{Armor}
 
 Current Health \TextField[name=CurrentHealth, width=5mm]{}
 
