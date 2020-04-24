@@ -20,6 +20,10 @@ Back Story
 | --------- | ---------- | -------- |
 | \TextField[name=Awareness, width=5mm, value=2]{} | \TextField[name=Philosophy, width=5mm, value=2]{} | \TextField[name=Vitality, width=5mm, value=2]{} |
 
+| Job |
+| --- |
+| \TextField[name=Job, width=5cm]{} |
+
 | Expertise | Trait |
 | --------- | ----- |
 | \TextField[name=Expertise1, width=3cm]{} | \TextField[name=Trait1, width=3cm]{} |
