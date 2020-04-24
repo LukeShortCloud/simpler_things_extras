@@ -13,6 +13,11 @@ Back Story
 \TextField[name=BackStory3, width=\hsize]{}
 \TextField[name=BackStory4, width=\hsize]{}
 \TextField[name=Backstory5, width=\hsize]{}
+\TextField[name=Backstory6, width=\hsize]{}
+\TextField[name=Backstory7, width=\hsize]{}
+\TextField[name=Backstory8, width=\hsize]{}
+\TextField[name=Backstory9, width=\hsize]{}
+\TextField[name=Backstory10, width=\hsize]{}
 
 ## Traits and Skills Expertise
 
@@ -62,8 +67,12 @@ Current Health \TextField[name=CurrentHealth, width=5mm]{}
 | Notes |
 | ----- |
 | \TextField[name=Notes1, width=\hsize]{} |
-| \TextField[name=Notes1, width=\hsize]{} |
-| \TextField[name=Notes1, width=\hsize]{} |
-| \TextField[name=Notes1, width=\hsize]{} |
-| \TextField[name=Notes1, width=\hsize]{} |
-| \TextField[name=Notes1, width=\hsize]{} |
+| \TextField[name=Notes2, width=\hsize]{} |
+| \TextField[name=Notes3, width=\hsize]{} |
+| \TextField[name=Notes4, width=\hsize]{} |
+| \TextField[name=Notes5, width=\hsize]{} |
+| \TextField[name=Notes6, width=\hsize]{} |
+| \TextField[name=Notes7, width=\hsize]{} |
+| \TextField[name=Notes8, width=\hsize]{} |
+| \TextField[name=Notes9, width=\hsize]{} |
+| \TextField[name=Notes10, width=\hsize]{} |
