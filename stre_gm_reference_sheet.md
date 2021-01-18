@@ -7,7 +7,12 @@ This is a collection of useful examples.
 **First Time**
 
 - The Game Master (GM) decides the genre, time, and setting for a game.
-- Player Characters (PCs) use a Character Sheet and fill it out by following the Characters Creation guide.
+- Player Characters (PCs) use a Character Sheet (or any physical or digital document of their choice)and fill it out by following the Characters Creation guide.
+    - Pick a Species.
+    - Pick a Skill Expertise.
+    - Purchase weapons and/or armor.
+    - Calculate health.
+    - Use this [Character Creation guide](https://github.com/ekultails/lifepages/blob/master/src/games/tabletop.rst#character-creation) to help bring the character to life.
 
 **Every Session**
 
