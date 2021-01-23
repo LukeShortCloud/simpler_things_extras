@@ -9,7 +9,7 @@ This is a collection of useful examples.
 - The Game Master (GM) decides the genre, time, and setting for a game.
 - Player Characters (PCs) use a Character Sheet (or any physical or digital document of their choice)and fill it out by following the Characters Creation guide.
     - Pick a Species.
-    - Pick a Skill Expertise.
+    - Pick a Skill to Boost.
     - Purchase weapons and/or armor.
     - Calculate health.
     - Use this [Character Creation guide](https://github.com/ekultails/lifepages/blob/master/src/games/tabletop.rst#character-creation) to help bring the character to life.
@@ -24,7 +24,7 @@ This is a collection of useful examples.
         - Bad Omen = The GM can increase the Difficulty of the Skill Check for a PC by `1d6`.
     - Determine the number of dice to roll for the Skill Check.
         - Base Skill Check = `TRAIT x d6`
-        - Skill Expertise = `+ 1d6`
+        - Skill Boost = `+ 1d6`
         - Good Omen = `+ 1d6`
 - The GM determines the outcome of an Action based on the results of the Skill Check.
     - Positive or Negative Side Effect = A Positive, Neutral, or Negative Side Effect (a related event) happens as a result of the Action. This is determined by the GM. A Neutral Side Effect normally means nothing happens besides the Action the character was trying to do.
@@ -39,7 +39,7 @@ This is a collection of useful examples.
         - If the Action succeeds, the character rolls `DIFFICULTY x d4` for damage.
             - If the Weapon is Vehicle sized, multiply the damage result by 10 to get the total damage.
 - Magic
-    - Works the same as any normal Skill check except it requires that a character has an Expertise in Magic to use it at all.
+    - Works the same as any normal Skill check except it requires that a character has an Boost in Magic to use it at all.
 
 ## Loot Table
 

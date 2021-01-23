@@ -344,19 +344,19 @@
     <table:table-row table:style-name="ro1">
      <table:table-cell/>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>EXPERTISE 1</text:p>
+      <text:p>BOOST 1</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>EXPERTISE 2</text:p>
+      <text:p>BOOST 2</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>EXPERTISE 3</text:p>
+      <text:p>BOOST 3</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>EXPERTISE 4</text:p>
+      <text:p>BOOST 4</text:p>
      </table:table-cell>
      <table:table-cell office:value-type="string" calcext:value-type="string">
-      <text:p>EXPERTISE 5</text:p>
+      <text:p>BOOST 5</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="ro1">

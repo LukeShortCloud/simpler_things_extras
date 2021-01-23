@@ -6,7 +6,7 @@ Table-top role-playing games (TTRPGs), in many ways, break the boundaries that b
 
 ## Skills Usage
 
-Each skill can be used to perform an action in game. Pick skills to become an expert in that align with your character and how you want to play.
+Each skill can be used to perform an action in game. Pick skills to boost that align with your character and how you want to play.
 
 Examples for how to use every skill:
 
