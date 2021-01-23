@@ -14,6 +14,10 @@ Instructions on how to create a PDF:
     - File > Print Preview > Format Page > Sheet > Print > (check the box for “Grid”) > OK
     - File > Export as PDF... > Export
 
+### Player Character Guide
+
+The [stre_pc_guide.md](stre_pc_guide.md) document is an introduction to TTRPG and how to use skills in the game.
+
 ## License
 
 [WTFPL](http://www.wtfpl.net/about/)
