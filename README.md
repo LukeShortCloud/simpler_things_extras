@@ -22,6 +22,14 @@ The [stre_genres.md](stre_genres.md) guide explains how to adapt Simpler Things 
 
 The [stre_pc_guide.md](stre_pc_guide.md) document is an introduction to TTRPG and how to use skills in the game.
 
+## Build Releases
+
+Each tagged release on GitHub has a related release that provides PDF files.
+
+```sh
+for guide in $(ls -1 *.md | cut -d\. -f1); do pandoc --toc --variable urlcolor=cyan -f markdown -t latex -o ${guide}.pdf ${guide}.md; done
+```
+
 ## License
 
 [WTFPL](http://www.wtfpl.net/about/)
