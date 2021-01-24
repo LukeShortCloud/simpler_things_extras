@@ -60,3 +60,7 @@ Health = (Vitality x 20) + Armor
 ### Design Your Character
 
 Figure out who your character is, their desires, and their backstory. For tips, refer to the [Life Pages TTRPGs Character Creation guide](https://github.com/ekultails/lifepages/blob/master/src/games/tabletop.rst#character-creation).
+
+## Rules
+
+Read over the [official rules for Simpler Things RPG](https://github.com/ekultails/simpler_things_rpg/blob/master/simpler_things.md) to get a better understanding of the game. As a player, you are not expected to memorize these rules. The game master will be in charge of knowing how the rules work.
