@@ -25,7 +25,7 @@ Examples for how to use every skill:
 
 ## Character Creation
 
-Use a [character sheet](https://github.com/ekultails/simpler_things_extras/blob/master/stre_character_sheet.fods) or other document to write down information about your character as you create them. You and the game master will reference this sheet during gameplay.
+Use a [character sheet](https://github.com/ekultails/simpler_things_extras/raw/master/stre_character_sheet.fods) (right-click and select "Save link as...") or other document to write down information about your character as you create them. You and the game master will reference this sheet during gameplay.
 
 ### Species
 
