@@ -59,4 +59,4 @@ Health = (Vitality x 20) + Armor
 
 ### Design Your Character
 
-Figure out who your character is, their desires, and their backstory. For tips, refer to [this guide](https://github.com/ekultails/lifepages/blob/master/src/games/tabletop.rst#character-creation).
+Figure out who your character is, their desires, and their backstory. For tips, refer to the [Life Pages TTRPGs Character Creation guide](https://github.com/ekultails/lifepages/blob/master/src/games/tabletop.rst#character-creation).
