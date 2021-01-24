@@ -1,6 +1,6 @@
 # Simpler Things RPG Extras
 
-Additional resources for the [Simpler Things RPG](https://github.com/ekultails/simpler_things_rpg). Reference guides, character sheets, and examples are provided.
+Additional resources for the [Simpler Things RPG](https://github.com/ekultails/simpler_things_rpg). Reference guides, character sheets, and examples are provided. PDF releases of these documents are available as assets [here](https://github.com/ekultails/simpler_things_extras/releases).
 
 ## Documents
 
