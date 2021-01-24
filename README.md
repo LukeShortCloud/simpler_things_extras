@@ -22,6 +22,12 @@ The [stre_genres.md](stre_genres.md) guide explains how to adapt Simpler Things 
 
 The [stre_pc_guide.md](stre_pc_guide.md) document is an introduction to TTRPG and how to use skills in the game.
 
+## Versioning
+
+Both Simpler Things RPG and Extras follow semantic versioning of: `X.Y.Z`. Extras mirrors the major (X) and minor (Y) version of RPG. The bugfix release (Z) is independent/separate between the two repositories.
+
+For example, RPG version 0.1.0 is compatible with Extras 0.1.1.
+
 ## Build Releases
 
 Each tagged release on GitHub has a related release that provides PDF files.
