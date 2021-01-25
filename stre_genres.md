@@ -37,7 +37,7 @@ Far:
 
 - Slingshot = Energy Slingshot
 - Spear = Vibro-voulge
-- Bow = Energy bow
+- Bow = Energy Bow
 - Crossbow = Bowcaster
 - Pistol = DL-44 Heavy Blaster Pistol
 - Assault Rifle = Blaster Rifle
