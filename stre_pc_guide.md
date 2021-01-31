@@ -49,10 +49,10 @@ You have $1000 to spend on armor and/or weapons. View the costs in the [Items se
 Suggestions:
 
 - Axe ($500) + Crossbow ($500)
-- Tier 1 Armor ($500) + Axe ($500)
-- Tier 1 Armor ($500) + Crossbow ($500)
+- Tier 1 Armor for `+5` health ($500) + Axe ($500)
+- Tier 1 Armor for `+5` health ($500) + Crossbow ($500)
 - Assault Rifle ($800)
-- Tier 2 Armor ($1000)
+- Tier 2 Armor for `+10` health ($1000)
 
 ### Calculate Health
 
