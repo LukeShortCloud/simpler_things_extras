@@ -55,7 +55,7 @@ First, determine your vitality stat based on the species you picked (see below).
 
 Next, determine if any armor was bought. Finally, calculate your characters' current health:
 
-Health = (Vitality x 20) + Armor
+Health = (Vitality x 10) + Armor
 
 ### Design Your Character
 
