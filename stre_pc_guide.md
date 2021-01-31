@@ -11,14 +11,14 @@ Each skill can be used to perform an action in game. Pick skills to boost that a
 Examples for how to use every skill:
 
 - Convincing = Persuade an NPC, negotiate a good deal with a merchant, etc.
-- Driving = Ride horses, drive cars, fly spaceships, etc.
 - Electronics = Hack into a terminal, fix a car, etc.
 - Examination = Look for clues, look for hidden traps, etc.
-- Geography = Find out how to get from point A to B, determine the vegetation in the area, etc.
+- Fistfight = Punch or kick a character.
+- Geography = Find out how to get from point A to B, determine the vegetation in the area, ride horses, drive cars, fly spaceships, etc.
 - Healing = Heal yourself or others.
-- Magic = Use magical spells for combat.
 - Lore = See if you remember the history of a person/place/thing, know the latest street rumors, know what the locals think, etc.
 - Sneak = Hide, sneak around a guard, etc.
+- Strength = Push open a simple door, move a heavy container, etc.
 - Stunts = Jump off of a roof, walk on a thin rope, etc.
 - Weapons (near) = Fight with a melee weapon, try to break a lock, etc.
 - Weapons (far) = Fight with a gun, shoot a target, etc.
@@ -31,10 +31,10 @@ Use a [character sheet](https://github.com/ekultails/simpler_things_extras/raw/m
 
 Pick a species that either (1) interests you or (2) one that is better at skills you would like to use. Here are the base skills the species is good at when starting the game:
 
-- `<SPECIES>` `(<TRAIT>)` = `<SKILL_1>`, `<SKILL_2>`, `<SKILL_3>`, `<SKILL_4>`
-- Alien (Awareness) = Convincing, Examination, Magic, and Sneak.
-- Human (Vitality) = Healing, Stunts, Weapons (near), and Weapons (far).
-- Robot (Knowledge) = Driving, Electronics, Geography, and Lore.
+- `<SPECIES>` `(<TRAIT>)` = `<SKILL_1>`, `<SKILL_2>`, `<SKILL_3>`, and `<SKILL_4>`.
+- Alien (Awareness) = Convincing, Examination, Sneak, and Weapons (far).
+- Human (Vitality) = Fistfight, Strength, Stunts, and Weapons (near).
+- Robot (Knowledge) = Electronics, Geography, Healing, and Lore.
 
 ### Skill Boost
 
