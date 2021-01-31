@@ -46,6 +46,14 @@ Either (1) pick a skill that your species is not good at to become more well-rou
 
 You have $1000 to spend on armor and/or weapons. View the costs in the [Items section of the game rules](https://github.com/ekultails/simpler_things_rpg/blob/master/simpler_things.md#items). Any unspent money will be yours to keep.
 
+Suggestions:
+
+- Axe ($500) + Crossbow ($500)
+- Tier 1 Armor ($500) + Axe ($500)
+- Tier 1 Armor ($500) + Crossbow ($500)
+- Assault Rifle ($800)
+- Tier 2 Armor ($1000)
+
 ### Calculate Health
 
 First, determine your vitality stat based on the species you picked (see below). This will be the same for all new characters.
