@@ -14,6 +14,8 @@ Instructions on how to create a PDF:
     - File > Print Preview > Format Page > Sheet > Print > (check the box for “Grid”) > OK
     - File > Export as PDF... > Export
 
+View the [stre_character_sheet_example.fods](stre_character_sheet_example.fods) file to see what a level 1 character sheet would like when filled out.
+
 ### Genres
 
 The [stre_genres.md](stre_genres.md) guide explains how to adapt Simpler Things RPG to specific genres. Currently, this only contains Star Wars.
