@@ -44,7 +44,7 @@ Either (1) pick a skill that your species is not good at to become more well-rou
 
 ### Buy Items (Equipment)
 
-You have $1000 to spend on armor and/or weapons. View the costs in the [Items section of the game rules](https://github.com/ekultails/simpler_things_rpg/blob/master/simpler_things.md#items). Any unspent money will be yours to keep.
+You have $1000 to spend on armor and/or weapons. View the costs in the [Items section of the game rules](https://github.com/ekultails/simpler_things_rpg/blob/master/simpler_things_rpg_rule_book.md#items). Any unspent money will be yours to keep.
 
 Suggestions:
 
