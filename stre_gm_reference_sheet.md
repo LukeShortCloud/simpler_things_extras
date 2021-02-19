@@ -41,6 +41,21 @@ This is a collection of useful examples.
 - Magic
     - Works the same as any normal Skill check except it requires that a character has an Boost in Magic to use it at all.
 
+## Difficulty
+
+Suggested Difficulty for Player Characters (PCs) based on the maximum number they could have in one Trait at a certain Level.
+
+PC Levels and Difficulty:
+
+|      | 1-3 | 4-7 | 8-11 | 12 |
+| ---- | --- | --- | ---- | -- |
+| Easy | 3 | 6 | 9 | 12 |
+| Medium | 6 | 9 | 12 | 15 |
+| Hard | 9 | 12 | 15 | 18 |
+| Near Impossible | 12 | 15 | 18 | 21 |
+
+PCs who have a Boost in a Skill related to their highest Trait will make Near Impossible Difficulty easier to achieve.
+
 ## Loot Table
 
 This is a reference for the GM to determine what random items may be found when characters search through a room, storage container, pocket, etc.
